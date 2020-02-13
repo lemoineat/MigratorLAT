@@ -1,0 +1,10 @@
+/Release
+/Debug
+/obj
+/bin
+/PartCover
+/*.cd
+/*.bak
+/*.sdps
+/*.suo
+/Coverage.Xml
